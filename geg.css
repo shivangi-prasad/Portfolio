@@ -1,9 +1,22 @@
-body{
-    background: rgb(144, 52, 24);
+body {
+  display: block;
 }
 
+.design {
+  font-size: xx-large;
+  color: blue;
+  background-color: aqua;
+}
 
-h3
-{
-    color:pink;
+.service_heading {
+  display: block;
+  font-size: xx-large;
+  color: blue;
+  align-items: center;
+}
+
+.services {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
